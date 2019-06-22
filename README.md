@@ -1,4 +1,4 @@
-# Developed by 0xSpec
+# Developed by phphax
 # SMTPSpoof
 PHP-based SMTP mail spoofer/flooder for SE-related security engagements. HTML/CSS user interface for ease of use. Originally packaged with DangerousKitten
 
