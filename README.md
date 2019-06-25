@@ -1,4 +1,4 @@
-# Developed by phphax
+# Developed by ret2win
 # SMTPSpoof
 PHP-based SMTP mail spoofer/flooder for SE-related security engagements. HTML/CSS user interface for ease of use. Originally packaged with DK
 
